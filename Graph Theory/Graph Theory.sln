@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Graph Theory", "Graph Theory\Graph Theory.vcxproj", "{E511B6ED-8158-421A-B950-425615E9B099}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E511B6ED-8158-421A-B950-425615E9B099}.Debug|x64.ActiveCfg = Debug|x64
+		{E511B6ED-8158-421A-B950-425615E9B099}.Debug|x64.Build.0 = Debug|x64
+		{E511B6ED-8158-421A-B950-425615E9B099}.Debug|x86.ActiveCfg = Debug|Win32
+		{E511B6ED-8158-421A-B950-425615E9B099}.Debug|x86.Build.0 = Debug|Win32
+		{E511B6ED-8158-421A-B950-425615E9B099}.Release|x64.ActiveCfg = Release|x64
+		{E511B6ED-8158-421A-B950-425615E9B099}.Release|x64.Build.0 = Release|x64
+		{E511B6ED-8158-421A-B950-425615E9B099}.Release|x86.ActiveCfg = Release|Win32
+		{E511B6ED-8158-421A-B950-425615E9B099}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDFED100-EF67-4489-A623-FCD503FEB51B}
+	EndGlobalSection
+EndGlobal

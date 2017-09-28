@@ -19,8 +19,11 @@ public:
 		if (!read.is_open())
 			cout << "File not found!" << endl;
 
-		else
-			copy(istream_iterator<int>(read), istream_iterator<int>(), back_inserter(vecGraph));
+		else 
+		{
+			while (!read.eof())
+				copy(istream_iterator<int>(read), istream_iterator<int>(), back_inserter(vecGraph));
+		}
 	}
 	void writeGraph(string fileName)
 	{
